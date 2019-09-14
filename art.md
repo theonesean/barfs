@@ -33,3 +33,14 @@ Collage is a device and a medium, but here it’s being used exclusively as a de
 [**TODO**: motivate that the source code is itself a text, related to the work of art, but not the same as it. keywords: abstraction, structure, function]
 
 How do we engage with website-as-art, from a phenomenological perspective?
+
+What critical takeaways can be gleaned from extant websites-as-art, and is there benefit to assembling a corpus? I guess all of this questioning leads to the question: is there a *there* here? 
+
+Notable differences of the medium: separation between construction and instantiation, diversity of endpoints for the medium itself, construction-as-text, ephemerality (which is an evergreen topic when it comes to digital vs. non-digital, and is not a new consideration), distribution.
+
+Poiesis is particularly relevant here, and I think essential to properly *doing aesthetics* to websites-as-art. How does the act of poiesis relate to the work-artist-universe-audience framework of modern/post-modern aesthetic theory, particularly when the work can, in an extremely technical sense, be said to be autopoietic?
+
+Artists who build things that themselves produce art objects are a place to go with this theory. Certain things fit better with the collage concept: Random Darknet Shopper. The program was created by the artist. The objects it collected are collage-like, but did the program create the collage? Is the act of programming the program also a creation of the collage? Is the work the program and its collection? Is the artist, in part, the audience? What about the unwitting participants on the other end of the Dark Web? 
+
+Continuing this line of thought: Websites-as-art can be said to be "acting on" the entire web. If websites are constructed when they're viewed, as a separate text on each device (in a much more real way than, say, visiting a painting in a museum), then is the work the act of constructing the page? Is it the set of all pages? Is it the source code, process of compilation, software that serves it, rendering engine, browser, OS, driver, pixels-on-screen?
+
