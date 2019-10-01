@@ -16,6 +16,8 @@ https://mcburton.net
 
 http://www.depressionquest.com/
 
+http://www.kurzweilcyberart.com/
+
 Shklovsky, Victor. "Art as Technique." *Russian Formalist Criticism: Four Essays*, ed., trans. by Lee T. Lemon and Marion J. Reis, U of Nebraska P, 1965, pp. 3-24.
 
 Heidegger, Martin. *Being and Time*. Trans. by John Macquarrie and Edward Robinson. 1927. Trans. 1962. New York, Harper Perennial, 2008. 
